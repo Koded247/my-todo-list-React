@@ -12,7 +12,7 @@
 ## Overview
 
 
-Users should be able to:
+Users will be able to:
 
 - Add Tasks: Allows users to input new tasks through a text input field and add them to the list.
 
